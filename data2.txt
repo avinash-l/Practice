@@ -1,0 +1,4 @@
+commit and  tree objects in git are created per commit command.
+whereas blob object in git is created per add command.
+file contents in blob object are in encrypted format.
+GC is availabe in git too.GC will work for you in background.
